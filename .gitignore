@@ -5,7 +5,6 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
 .env.backup
 .env.secrets
 .phpunit.result.cache
@@ -38,3 +37,4 @@ docker/coolify-realtime/node_modules
 .DS_Store
 CHANGELOG.md
 /.workspaces
+config.bat
